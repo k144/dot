@@ -1,0 +1,34 @@
+mod4 + w ; {w,m,g,o,y,4,a,p,d,n}
+	firefox -new-window {_,https://messenger.com,https://gmail.com,https://outlook.com,https://youtube.com,https://4chan.org,https://wiki.archlinux.org,https://wikipedia.org,https://uonetplus.vulcan.net.pl/powiatnowotomyski,https://netflix.com}
+
+mod4 + Return
+	st -e fish
+
+mod4 + x
+	slock
+
+mod4 + shift + p
+	passmenu
+
+XF86AudioMute
+	lmc mute
+XF86AudioLowerVolume
+	lmc down 5
+shift+XF86AudioLowerVolume
+	lmc down 10
+control+XF86AudioLowerVolume
+	lmc down 1
+XF86AudioRaiseVolume
+	lmc up 5
+shift+XF86AudioRaiseVolume
+	lmc up 10
+control+XF86AudioRaiseVolume
+	lmc up 1
+XF86AudioNext
+	lmc next
+XF86AudioPlay
+	lmc toggle
+XF86AudioPrev
+	lmc prev
+XF86AudioStop
+	lmc toggle
