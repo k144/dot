@@ -1,0 +1,13 @@
+*
+!.gitignore
+!/compton
+!/dunst
+!/fish
+!/git
+!/lf
+!/mpv
+!/nvim
+!/sxhkd
+!/sxiv
+!/xob
+!/zathura
