@@ -1,7 +1,5 @@
 set default-bg "#222222"
 set completion-group-bg "#222222"
-set tabbar-bg "#222222"
-set tabbar-focus-bg "#222222"
 set statusbar-bg "#222222"
 set recolor-lightcolor "#222222"
 set recolor-darkcolor "#eeeeee"
