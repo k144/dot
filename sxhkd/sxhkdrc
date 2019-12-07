@@ -10,6 +10,9 @@ mod4 + x
 mod4 + shift + p
 	passmenu
 
+Menu
+	clipmenu
+
 XF86AudioMute
 	lmc mute
 XF86AudioLowerVolume
