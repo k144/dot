@@ -2,7 +2,7 @@ set fish_greeting ""
 
 alias v='nvim'
 alias sv='sudo nvim'
-
+alias mp='wine ~/.wine/drive_c/Program\ Files/Magiczne\ Bloczki/Magiczne\ Bloczki.exe'
 abbr -a -U u sudo pacman -Syyu
 abbr -a -U p sudo pacman -S
 abbr -a -U ka killall 
